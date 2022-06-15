@@ -1,0 +1,12 @@
+versoes {
+   node -v: 16.15.1
+}
+
+comandos {
+   criar um proejto react native: expo init nomeDoProjeto
+   build por android USB: expo start --localhost --android
+}
+
+plugins {
+   instalar uma fonte do google para o projeto: expo install expo-font @expo-google-fonts/nomeDaFonte
+}
